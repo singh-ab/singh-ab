@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
 <h3 align="center">A passionate software developer undergrad at IIITDM Jabalpur.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/LpaVnT7.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://i.imgur.com/LpaVnT7.gif"> -->
 
 - 🔭 I’m currently working on [APS Website and Chatbot](https://github.com/singh-ab/APS_IIITDMJ)
 
