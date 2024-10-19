@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Abhay!</h2>
 
 ###
-<h3 align="center">A curious software developer, AI explorer, and student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
+<h3 align="center">I'm a curious software developer, AI enthusiast, and student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
 
 - 🔭 I’m currently working on [APS Chatbot and Web App](https://github.com/singh-ab/APS_IIITDMJ)
 
