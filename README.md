@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhay!</h2>
+<h1 align="center">Hi 👋! My name is Abhay!</h1>
 
 ###
 <h3 align="center">I'm a curious software developer, AI enthusiast, and student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
@@ -9,9 +9,9 @@
 
 - 👨‍💻 My projects are available at [https://singhabhay.vercel.app/](https://singhabhay.vercel.app/)
 
-- 💬 Ask me about **Next.js, LLMs or tech in general**
+- 💬 Ask me about **Next.js, LLMs or just tech in general**
 
-- ⚡ Fun fact **I can solve coding problems faster than I can decide what to eat for lunch!**
+- ⚡ Fun fact, **I can solve coding problems faster than I can decide what to eat for lunch!**
 ###
 
 <div align="center">
