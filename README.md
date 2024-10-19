@@ -1,3 +1,6 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
 <h3 align="center">A curious software developer, AI explorer, and student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
 
 - 🔭 I’m currently working on [APS Chatbot and Web App](https://github.com/singh-ab/APS_IIITDMJ)
@@ -11,6 +14,12 @@
 - 📫 How to reach me **singhabhay@duck.com**
 
 - ⚡ Fun fact **I can solve coding problems faster than I can decide what to eat for lunch!**
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singh-ab&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singh-ab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
