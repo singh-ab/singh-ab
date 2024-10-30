@@ -1,8 +1,9 @@
-<h1 align="center">Hello!!! I'm Abhay!</h1>
+<h1 align="center">Hello!! \(￣︶￣*\)) I'm Abhay!</h1>
 
 ###
-<img align="center" height="150" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
-###
+<div align="center">
+<img height="200" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
+</div>
 
 ###
 <h3 align="center">I'm a curious software developer, AI enthusiast, and a student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
