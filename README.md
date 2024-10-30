@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋! My name is Abhay!</h1>
+<h1 align="center">Hello!!! I'm Abhay!</h1>
 
 ###
-<h3 align="center">I'm a curious software developer, AI enthusiast, and student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
+<img align="center" height="150" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
+###
+
+###
+<h3 align="center">I'm a curious software developer, AI enthusiast, and a student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
 
 - 🔭 I’m currently working on [APS Chatbot and Web App](https://github.com/singh-ab/APS_IIITDMJ)
 
@@ -20,8 +24,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/6da0d4558ef3317ed4e025d57b81747e/8b7c3064577d5057-e6/s1280x1920/12b2ca8ef552a665f1138cc05c24f1a8b86f3953.gifv"  />
 
 ###
 
