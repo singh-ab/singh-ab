@@ -6,7 +6,7 @@
 </div>
 
 ###
-<h3 align="center">I'm a curious software developer, AI enthusiast, and a student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
+<h3 align="center">I'm a curious software developer, AI/ML enthusiast, and a student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
 
 - 🔭 I’m currently working on [APS Chatbot and Web App](https://github.com/singh-ab/APS_IIITDMJ)
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 My projects are available at [https://singhabhay.vercel.app/](https://singhabhay.vercel.app/)
 
-- 💬 Ask me about **Next.js, LLMs or just tech in general**
+- 💬 Ask me about **Next.js, NLPs, LLMs or just tech in general**
 
 - ⚡ Fun fact, **I can solve coding problems faster than I can decide what to eat for lunch!**
 ###
