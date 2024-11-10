@@ -14,7 +14,7 @@
 
 - 👨‍💻 My projects are available at [https://singhabhay.vercel.app/](https://singhabhay.vercel.app/)
 
-- 💬 Ask me about **Next.js, NLPs, LLMs or just tech in general**
+- 💬 Ask me about **Next.js, Computer Vision, LLMs or just tech in general**
 
 - ⚡ Fun fact, **I can solve coding problems faster than I can decide what to eat for lunch!**
 ###
