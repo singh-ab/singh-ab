@@ -6,7 +6,7 @@
 </div>
 
 ###
-<h3 align="center">I'm a curious software developer, AI/ML enthusiast, and a student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
+<h3 align="center">I'm a curious software developer who does a bit of AI/ML engineering, and a student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
 
 - 🔭 I’m currently working on [APS Chatbot and Web App](https://github.com/singh-ab/APS_IIITDMJ)
 
@@ -53,6 +53,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
@@ -60,6 +62,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
@@ -75,7 +79,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
