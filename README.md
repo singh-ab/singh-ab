@@ -6,15 +6,15 @@
 </div>
 
 ###
-<h3 align="center">I'm a curious software developer who does a bit of AI/ML engineering, and a student at IIITDM Jabalpur, always tinkering with tech and excited about what’s next!</h3>
+<h3 align="center">I'm a curious software developer who does a bit of AI/ML engineering, always tinkering with tech and excited about what’s next!</h3>
 
-- 🔭 I’m currently working on [APS Chatbot and Web App](https://github.com/singh-ab/APS_IIITDMJ)
+- 🔭 I’m currently working on [FilmRatio for Letterboxd](https://github.com/singh-ab/filmratio)
 
 - 🌱 I’m currently learning **Distributed Systems, Langchain, Kubernetes**
 
-- 👨‍💻 My projects are available at [https://singhabhay.vercel.app/](https://singhabhay.vercel.app/)
+- 👨‍💻 My projects are available at [singh-abhay.web.app](https://singh-abhay.web.app/)
 
-- 💬 Ask me about **Next.js, Computer Vision, LLMs or just tech in general**
+- 💬 Ask me about **Next.js, Gen-AI, Computer Vision, LLMs or just tech in general**
 
 - ⚡ Fun fact, **I can solve coding problems faster than I can decide what to eat for lunch!**
 ###
